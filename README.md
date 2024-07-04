@@ -1,4 +1,4 @@
-<h3><b>Hi there, 👋</b></h3>
+<h2><b> Hi there, 👋</b></h2>
 
 
 - 🔭 I’m currently working on :  python
