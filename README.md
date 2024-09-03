@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on :  python
-- 🌱 I’m currently learning : javascript
+- 🌱 I’m currently learning : React.js,note.js
 - 👯 I’m looking to collaborate on : web based projects
 - 🤔 I’m looking for help with : javascript,react,python
 - 📫 How to reach me: linkedin,insta
